@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e1dc3fef06a344ca9d5da3c683400a4d" Name="Diagram1">
+        <EntityTypeShape EntityType="SosyalMedyaModel.Grup" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SosyalMedyaModel.GrupKullanici" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SosyalMedyaModel.Kullanici" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SosyalMedyaModel.Mesaj" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SosyalMedyaModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="7" IsExpanded="true" />
+        <AssociationConnector Association="SosyalMedyaModel.FK_Grup_Kullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="SosyalMedyaModel.FK_GrupKullanici_Grup" ManuallyRouted="false" />
+        <AssociationConnector Association="SosyalMedyaModel.FK_Mesaj_Grup" ManuallyRouted="false" />
+        <AssociationConnector Association="SosyalMedyaModel.FK_GrupKullanici_Kullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="SosyalMedyaModel.FK_Mesaj_Kullanici" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,8 @@
+﻿<table class="table table-hovered">
+    <tr ng-repeat="x in gruplar">
+        <td>{{x.Adi}}</td>
+        <td>{{x.YoneticiKullaniciAdi}}</td>
+        <td>{{x.OlusturulmaTarihi | date : 'short'}}</td>
+        <td><button ng-click="grupaltindakimesajlarigor(x.GrupID)">Mesajları Gör</button></td>
+    </tr>
+</table>

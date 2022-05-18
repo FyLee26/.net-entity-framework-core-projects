@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+    <script src="ng.js"></script>
+
+</head>
+<body ng-app="SosyalMedyaApp" ng-controller="indexCtrl">
+    <div class="col-md-3 alert alert-info" style="height:500px;" ng-hide="$root.oturumacankullanici == null">
+        <h1>MENÜ</h1>
+        <h2>{{$root.oturumacankullanici.AdSoyad}}</h2>
+        <h4><a href="#!grup">Grup İşlemleri</a></h4>
+        <h4><a href="#!mesaj">Mesaj İşlemleri</a></h4>
+        <h4><a ng-click="cikisyap()">Çıkış Yap</a></h4>
+    </div>
+    <div class="col-md-9 alert alert-warning" ng-view></div>
+
+</body>
+</html>

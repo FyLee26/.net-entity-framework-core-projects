@@ -1,0 +1,40 @@
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\csc.exe
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\vbc.exe
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\VBCSCompiler.exe
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\NG.dll.config
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\NG.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\NG.pdb
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\obj\Debug\NG.csprojResolveAssemblyReference.cache
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\obj\Debug\NG.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\NG\obj\Debug\NG.pdb
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\csc.exe
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\vbc.exe
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\NG.dll.config
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\NG.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\NG.pdb
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\obj\Debug\NG.csprojResolveAssemblyReference.cache
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\obj\Debug\NG.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\2. Sınıf 3. Dönem\İnt Prog 1\whatsapp\WhatsAppApi\NG\obj\Debug\NG.pdb

@@ -1,0 +1,106 @@
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\csc.exe
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\vbc.exe
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\WhatsAppApi.dll.config
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\WhatsAppApi.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\WhatsAppApi.pdb
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Antlr3.Runtime.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\EntityFramework.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\EntityFramework.SqlServer.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Newtonsoft.Json.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Net.Http.Formatting.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Cors.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Helpers.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.Cors.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.WebHost.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Mvc.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Optimization.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Razor.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\WebGrease.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\EntityFramework.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\EntityFramework.SqlServer.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Net.Http.Formatting.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.Cors.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Newtonsoft.Json.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Helpers.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.WebHost.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Mvc.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Optimization.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.Razor.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\bin\Antlr3.Runtime.pdb
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\obj\Debug\WhatsAppApi.csprojResolveAssemblyReference.cache
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\obj\Debug\WhatsAppApi.dll
+C:\Users\SUE\Desktop\mobil 1o\12. Hafta\WhatsAppApi\WhatsAppApi\obj\Debug\WhatsAppApi.pdb
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\csc.exe
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\vbc.exe
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\WhatsAppApi.dll.config
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\WhatsAppApi.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\WhatsAppApi.pdb
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Antlr3.Runtime.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\EntityFramework.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Newtonsoft.Json.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Cors.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Helpers.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.Cors.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Mvc.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Optimization.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Razor.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\WebGrease.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\EntityFramework.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.Cors.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Newtonsoft.Json.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Helpers.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Mvc.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Optimization.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.Razor.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\bin\Antlr3.Runtime.pdb
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\obj\Debug\WhatsAppApi.csprojResolveAssemblyReference.cache
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\obj\Debug\WhatsAppApi.dll
+C:\Users\Enes\Desktop\Bilgisayar Teknolojisi(2. Sınıf)\İnt Prog 1\whatsapp\WhatsAppApi\WhatsAppApi\obj\Debug\WhatsAppApi.pdb

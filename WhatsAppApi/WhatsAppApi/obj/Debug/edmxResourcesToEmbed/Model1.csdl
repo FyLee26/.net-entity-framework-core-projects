@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SosyalMedyaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Grup">
+    <Key>
+      <PropertyRef Name="GrupID" />
+    </Key>
+    <Property Name="GrupID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="OlusturulmaTarihi" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="YoneticiKullaniciID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Grup_Kullanici" FromRole="Grup" ToRole="Kullanici" />
+    <NavigationProperty Name="GrupKullanici" Relationship="Self.FK_GrupKullanici_Grup" FromRole="Grup" ToRole="GrupKullanici" />
+    <NavigationProperty Name="Mesaj" Relationship="Self.FK_Mesaj_Grup" FromRole="Grup" ToRole="Mesaj" />
+  </EntityType>
+  <EntityType Name="GrupKullanici">
+    <Key>
+      <PropertyRef Name="GrupKullaniciID" />
+    </Key>
+    <Property Name="GrupKullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GrupID" Type="Int32" Nullable="false" />
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" />
+    <Property Name="KatilmaZamani" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Grup" Relationship="Self.FK_GrupKullanici_Grup" FromRole="GrupKullanici" ToRole="Grup" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_GrupKullanici_Kullanici" FromRole="GrupKullanici" ToRole="Kullanici" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tel" Type="String" MaxLength="11" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Grup" Relationship="Self.FK_Grup_Kullanici" FromRole="Kullanici" ToRole="Grup" />
+    <NavigationProperty Name="GrupKullanici" Relationship="Self.FK_GrupKullanici_Kullanici" FromRole="Kullanici" ToRole="GrupKullanici" />
+    <NavigationProperty Name="Mesaj" Relationship="Self.FK_Mesaj_Kullanici" FromRole="Kullanici" ToRole="Mesaj" />
+  </EntityType>
+  <EntityType Name="Mesaj">
+    <Key>
+      <PropertyRef Name="MesajID" />
+    </Key>
+    <Property Name="MesajID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GrupID" Type="Int32" Nullable="false" />
+    <Property Name="YazanID" Type="Int32" Nullable="false" />
+    <Property Name="MesajMetni" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MesajZamani" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Grup" Relationship="Self.FK_Mesaj_Grup" FromRole="Mesaj" ToRole="Grup" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Mesaj_Kullanici" FromRole="Mesaj" ToRole="Kullanici" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Grup_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="Grup" Type="Self.Grup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Grup">
+        <PropertyRef Name="YoneticiKullaniciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GrupKullanici_Grup">
+    <End Role="Grup" Type="Self.Grup" Multiplicity="1" />
+    <End Role="GrupKullanici" Type="Self.GrupKullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grup">
+        <PropertyRef Name="GrupID" />
+      </Principal>
+      <Dependent Role="GrupKullanici">
+        <PropertyRef Name="GrupID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Mesaj_Grup">
+    <End Role="Grup" Type="Self.Grup" Multiplicity="1" />
+    <End Role="Mesaj" Type="Self.Mesaj" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grup">
+        <PropertyRef Name="GrupID" />
+      </Principal>
+      <Dependent Role="Mesaj">
+        <PropertyRef Name="GrupID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GrupKullanici_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="GrupKullanici" Type="Self.GrupKullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="GrupKullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Mesaj_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="Mesaj" Type="Self.Mesaj" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Mesaj">
+        <PropertyRef Name="YazanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SosyalMedyaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Grup" EntityType="Self.Grup" />
+    <EntitySet Name="GrupKullanici" EntityType="Self.GrupKullanici" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+    <EntitySet Name="Mesaj" EntityType="Self.Mesaj" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Grup_Kullanici" Association="Self.FK_Grup_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Grup" EntitySet="Grup" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GrupKullanici_Grup" Association="Self.FK_GrupKullanici_Grup">
+      <End Role="Grup" EntitySet="Grup" />
+      <End Role="GrupKullanici" EntitySet="GrupKullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Mesaj_Grup" Association="Self.FK_Mesaj_Grup">
+      <End Role="Grup" EntitySet="Grup" />
+      <End Role="Mesaj" EntitySet="Mesaj" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GrupKullanici_Kullanici" Association="Self.FK_GrupKullanici_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="GrupKullanici" EntitySet="GrupKullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Mesaj_Kullanici" Association="Self.FK_Mesaj_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Mesaj" EntitySet="Mesaj" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

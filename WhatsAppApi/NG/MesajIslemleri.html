@@ -1,0 +1,18 @@
+﻿<div style="height:700px; max-height:700px; overflow-y:auto">
+    <div class="col-md-12" ng-repeat="x in mesajlar">
+        <div class="col-md-4 alert alert-{{ x.YazanKullaniciAdi == 'ben' ? 'success' : 'info' }}" style="float:{{ x.YazanKullaniciAdi == 'ben' ? 'right' : 'left' }}">
+            <span>{{x.YazanKullaniciAdi}}</span>
+            <span ng-show="x.YazanKullaniciAdi == 'ben'" style="color:red; float:right" ng-click="mesajisil(x.MesajID)">X</span>
+            <h4>{{x.MesajMetni}}</h4>
+            <span>{{x.MesajZamani}}</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-12">
+    <div class="col-md-10">
+        <textarea class="form-control" ng-model="mesajmetni"></textarea>
+    </div>
+    <div class="col-md-2">
+        <button class="form-control" ng-click="mesajgonder(mesajmetni)">Gönder</button>
+    </div>
+</div>
